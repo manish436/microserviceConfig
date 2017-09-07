@@ -1,16 +1,5 @@
-spring:
-    profiles: development
-name: development-YAML
-environment: test
-servers: 
-    - www.abc.test.com
-    - www.xyz.test.com
- 
----
-spring:
-    profiles: prod
-name: prod-YAML
-environment: production
-servers: 
-    - www.abc.com
-    - www.xyz.com
+# Config data exposed by config server
+
+info:
+  foo: bar
+someList: [2, 3, 7]
