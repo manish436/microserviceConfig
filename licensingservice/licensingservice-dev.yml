@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: bar mai jaa adhiraj PPPPPPPPPps OLA
+  foo:{cipher}53a7f98e5fece746c322e39e689bf57dd8bbf96334254dd10f9979bc9914f954804af8eee8ae2160275654191fb732869c16ed0a6bdd73045d21f31cad619aa8
 someList: [2, 3, 7]
