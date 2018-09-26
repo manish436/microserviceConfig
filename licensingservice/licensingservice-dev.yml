@@ -1,5 +1,5 @@
 example.property: "{cipher}7dc1bd0681601588ccb390086e7eb2d94637c9a01e8cb2fea8229978755b57023f2f9ca45aa2e52e7d849c25e4c41547"
-spring.jpa.database: "POSTGRESQL"
+spring.jpa.database: "POSTGRESQLLLLLL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "org.postgresql.Driver"
